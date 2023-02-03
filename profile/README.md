@@ -1,4 +1,8 @@
-## Hi there 👋
+# Boogoo 🦜
+
+## 🙋‍♀️ Introduction
+Boogoo aims at building a small and simple CMS.
+It just begins. Stay tuned. 🌈
 
 <!--
 
