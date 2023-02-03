@@ -4,7 +4,7 @@
 
 Boogoo aims at building a small and simple CMS.
 
-Logo is a parrot which desined by [OpenMoji](https://openmoji.org/library/emoji-1F99C/).
+Logo is a parrot which designed by [OpenMoji](https://openmoji.org/library/emoji-1F99C/).
 
 It just begins. Stay tuned. 🌈
 
