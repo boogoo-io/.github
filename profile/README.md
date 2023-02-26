@@ -3,6 +3,7 @@
 ## 🙋‍♀️ Introduction
 
 Boogoo aims at building a small and simple CMS.
+Also, we build some npm libs or chrome extentions.
 
 Logo is a parrot which designed by [OpenMoji](https://openmoji.org/library/emoji-1F99C/).
 
